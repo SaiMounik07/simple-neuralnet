@@ -5,4 +5,4 @@ A simple Python library for creating and training neural networks using TensorFl
 ## Installation
 
 ```bash
-pip install ImageRecogNeuralNet.
+pip install ImageRecogNeuralNet
